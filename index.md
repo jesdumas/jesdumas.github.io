@@ -1,10 +1,15 @@
 ## Welcome to my portfolio!
 
-You can use the [editor on GitHub](https://github.com/jesdumas/jesdumas.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Much of the analytical work I've done (computaional fluid dynamics, chemical kinetics modeling, statistical learning on experimental data) is unfortunately propriertary. However, I'm showcasing side projects and some work from my master's degree here.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Patent Applications
 
-### Markdown
+I'm an inventor on a few [patent applications](https://patents.google.com/?inventor=dumas&assignee=clearsign).
+
+### Climate Modeling
+
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
