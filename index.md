@@ -1,6 +1,8 @@
 ## Welcome to my portfolio!
 
-Much of the analytical work I've done (computaional fluid dynamics, chemical kinetics modeling, statistical learning on experimental data) is unfortunately propriertary. However, I'm showcasing side projects and some work from my master's degree here.
+Hello. I'm Jesse, an engineer with expertise modeling fluids and  combustion. I'm also skilled at statistical analysis. 
+
+Much of the analytical work I’ve done is unfortunately proprietary, so I’m showcasing side projects and some work from my master’s degree here.
 
 Please see my [LinkedIn profile](https://www.linkedin.com/in/jessedumas/) for details on my professional work. Feel free to reach out if you'd like to work with me. 
 
