@@ -1,8 +1,8 @@
 ## Welcome to my portfolio!
 
-Hello. I'm Jesse, an engineer with expertise modeling fluids and  combustion. I'm also skilled at statistical analysis. 
+Hello. I'm Jesse, an engineer with expertise modeling fluids and  combustion. I'm also skilled at statistical analysis and interested in data science. 
 
-Much of the analytical work I’ve done is unfortunately proprietary, so I’m showcasing side projects and some work from my master’s degree here.
+Much of the professional work I’ve done is unfortunately proprietary, so I’m showcasing side projects and some work from my master’s degree here.
 
 Please see my [LinkedIn profile](https://www.linkedin.com/in/jessedumas/) for details on my professional work. Feel free to reach out if you'd like to work with me. 
 
