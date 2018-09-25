@@ -25,43 +25,17 @@ For my final project, I chose to teach myself about [data assimilation](jesdumas
 
 ### Computational Methods for Data Analysis
 
-[HW1](jesdumas.github.io/amath582/amath582hw1.pdf)
-[HW2](jesdumas.github.io/amath582/amath582hw2.pdf)
-[HW3](jesdumas.github.io/amath582/amath582hw3.pdf)
-[HW4](jesdumas.github.io/amath582/amath582hw4.pdf)
-[Final project](jesdumas.github.io/amath582/amath582project2.pdf)
+
+In this applied math course, I studied statistical learning and its underlying linear algebra. Check out these projects:
+
+[Singular Value Decomposition (SVD): Foundations for Facial Recognition](jesdumas.github.io/amath582/amath582hw1.pdf)
+[Principal Component Analysis (PCA): Finding System Dynamics in Noisy Videos](jesdumas.github.io/amath582/amath582hw2.pdf)
+[Music Genre Classifier using PCA and Naive Bayes](jesdumas.github.io/amath582/amath582hw3.pdf)
+[Separating Foreground and Background Video using Dynamic Mode Decomposition (DMD)](jesdumas.github.io/amath582/amath582hw4.pdf)
+[Using (DMD) to Track Structures in Simulated Turbulent Flows](jesdumas.github.io/amath582/amath582project2.pdf)
 
 ### Master's Thesis
 
-[Thesis](jesdumas.github.io/thesisdata/dumas_ms_thesis.pdf)
+My [thesis](jesdumas.github.io/thesisdata/dumas_ms_thesis.pdf) focused on calculating drag coefficients for a supersonic projectile in a [ram accelerator](https://www.aa.washington.edu/research/ramaccel/introduction), a novel space launch concept. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-[Link](Plot%2037(1).html)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jesdumas/jesdumas.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
