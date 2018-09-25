@@ -12,10 +12,15 @@ I'm an inventor on a few [patent applications](https://patents.google.com/?inven
 
 ### Climate Modeling
 
-[First homework](jesdumas.github.io/atm559/dumas_atm559_hw1.pdf)
-[Second homework](jesdumas.github.io/atm559/dumas_atm559_hw2.pdf) 
-[Third homework](jesdumas.github.io/atm559/dumas_atm559_hw4.pdf)
-[Project](jesdumas.github.io/atm559/dumas_atms559project.pdf)
+This graduate level course focused on principles of Earth system modeling. Topics emphasized atmosphere, ocean sea ice, and land-surface impacts on climate. Here's some of my work from the class:
+
+I [modeled global ocean temperature anomalies](jesdumas.github.io/atm559/dumas_atm559_hw1.pdf) using a simple model written in Python. 
+
+I [analyzed data](jesdumas.github.io/atm559/dumas_atm559_hw2.pdf) from a climate model with a flattened Antarctica (which has some [high elevation mountains](https://en.wikipedia.org/wiki/Vinson_Massif)).  
+
+I [investigated heat transfer](jesdumas.github.io/atm559/dumas_atm559_hw4.pdf) in the ocean using the [Large Ensemble Community Project](http://www.cesm.ucar.edu/projects/community-projects/LENS/). 
+
+For my final project, I chose to teach myself about [data assimilation](jesdumas.github.io/atm559/dumas_atms559project.pdf).
 
 
 ### Computational Methods for Data Analysis
