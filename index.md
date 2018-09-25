@@ -36,7 +36,7 @@ In this applied math course, I studied statistical learning and its underlying l
 
 [Separating Foreground and Background Video using Dynamic Mode Decomposition (DMD)](jesdumas.github.io/amath582/amath582hw4.pdf)
 
-[Using (DMD) to Track Structures in Simulated Turbulent Flows](jesdumas.github.io/amath582/amath582project2.pdf)
+[Using DMD to Track Structures in Simulated Turbulent Flows](jesdumas.github.io/amath582/amath582project2.pdf)
 
 ### Master's Thesis
 
