@@ -4,7 +4,7 @@ Hello. I'm Jesse, an engineer with expertise modeling fluids and  combustion. I'
 
 Much of the professional work I’ve done is unfortunately proprietary, so I’m showcasing side projects and some work from my master’s degree here.
 
-Please see my [LinkedIn profile](https://www.linkedin.com/in/jessedumas/) for details on my professional work. Feel free to reach out if you'd like to work with me. 
+My [LinkedIn profile](https://www.linkedin.com/in/jessedumas/) has details on my background and career so far. Feel free to reach out if you'd like to work with me. 
 
 ### Patent Applications
 
