@@ -29,9 +29,13 @@ For my final project, I chose to teach myself about [data assimilation](jesdumas
 In this applied math course, I studied statistical learning and its underlying linear algebra. Check out these projects:
 
 [Singular Value Decomposition (SVD): Foundations for Facial Recognition](jesdumas.github.io/amath582/amath582hw1.pdf)
+
 [Principal Component Analysis (PCA): Finding System Dynamics in Noisy Videos](jesdumas.github.io/amath582/amath582hw2.pdf)
+
 [Music Genre Classifier using PCA and Naive Bayes](jesdumas.github.io/amath582/amath582hw3.pdf)
+
 [Separating Foreground and Background Video using Dynamic Mode Decomposition (DMD)](jesdumas.github.io/amath582/amath582hw4.pdf)
+
 [Using (DMD) to Track Structures in Simulated Turbulent Flows](jesdumas.github.io/amath582/amath582project2.pdf)
 
 ### Master's Thesis
