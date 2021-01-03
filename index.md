@@ -6,6 +6,10 @@ Much of the professional work I’ve done is unfortunately proprietary, so I’m
 
 My [LinkedIn profile](https://www.linkedin.com/in/jessedumas/) has details on my background and career so far. Feel free to reach out if you'd like to work with me. 
 
+### Data Science
+
+I finished DataCamp's [Data Science with R Track](https://www.datacamp.com/statement-of-accomplishment/track/15439867533afaec70f376e5d4cb3d17a26a5dac). Now, I'm working through their Python track.
+
 ### Patent Applications
 
 I'm an inventor on a few [patent applications](https://patents.google.com/?inventor=dumas&assignee=clearsign).
