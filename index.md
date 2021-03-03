@@ -12,7 +12,7 @@ I finished DataCamp's [Data Science with R Track](https://www.datacamp.com/state
 
 ### Patent Applications
 
-I'm an inventor on a few [patent applications](https://patents.google.com/?inventor=dumas&assignee=clearsign).
+I'm an inventor on a few [patents](https://patents.google.com/?inventor=dumas&assignee=clearsign&status=GRANT).
 
 ### Climate Modeling
 
