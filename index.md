@@ -24,7 +24,7 @@ I [analyzed data](jesdumas.github.io/atm559/dumas_atm559_hw2.pdf) from a climate
 
 I [investigated heat transfer](jesdumas.github.io/atm559/dumas_atm559_hw4.pdf) in the ocean using the [Large Ensemble Community Project](http://www.cesm.ucar.edu/projects/community-projects/LENS/). 
 
-For my final project, I chose to teach myself about [data assimilation](jesdumas.github.io/atm559/dumas_atms559project.pdf).
+For my final project, I chose to teach myself about [data assimilation]([jesdumas.github.io/atm559/dumas_atms559project.pdf](https://github.com/jesdumas/jesdumas.github.io/blob/master/amath582/amath582project2.pdf)).
 
 
 ### Computational Methods for Data Analysis
