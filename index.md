@@ -44,6 +44,6 @@ In this applied math course, I studied statistical learning and its underlying l
 
 ### Master's Thesis
 
-My [thesis](jesdumas.github.io/thesisdata/dumas_ms_thesis.pdf) focused on calculating drag coefficients for a supersonic projectile in a [ram accelerator](https://www.aa.washington.edu/research/ramaccel/introduction), a novel space launch concept. 
+My [thesis](/thesisdata/dumas_ms_thesis.pdf) focused on calculating drag coefficients for a supersonic projectile in a [ram accelerator](https://www.aa.washington.edu/research/ramaccel/introduction), a novel space launch concept. 
 
 
