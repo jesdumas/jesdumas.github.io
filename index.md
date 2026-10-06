@@ -18,13 +18,13 @@ I'm an inventor on a few [patents](https://patents.google.com/?inventor=dumas&as
 
 This graduate level course focused on principles of Earth system modeling. Topics emphasized atmosphere, ocean sea ice, and land-surface impacts on climate. Here's some of my work from the class:
 
-I [modeled global ocean temperature anomalies](jesdumas.github.io/atm559/dumas_atm559_hw1.pdf) using a simple model written in Python. 
+I [modeled global ocean temperature anomalies](/atm559/dumas_atm559_hw1.pdf) using a simple model written in Python. 
 
-I [analyzed data](jesdumas.github.io/atm559/dumas_atm559_hw2.pdf) from a climate model with a flattened Antarctica (which has some [high elevation mountains](https://en.wikipedia.org/wiki/Vinson_Massif)).  
+I [analyzed data](/atm559/dumas_atm559_hw2.pdf) from a climate model with a flattened Antarctica (which has some [high elevation mountains](https://en.wikipedia.org/wiki/Vinson_Massif)).  
 
-I [investigated heat transfer](jesdumas.github.io/atm559/dumas_atm559_hw4.pdf) in the ocean using the [Large Ensemble Community Project](http://www.cesm.ucar.edu/projects/community-projects/LENS/). 
+I [investigated heat transfer](/atm559/dumas_atm559_hw4.pdf) in the ocean using the [Large Ensemble Community Project](http://www.cesm.ucar.edu/projects/community-projects/LENS/). 
 
-For my final project, I chose to teach myself about [data assimilation]([jesdumas.github.io/atm559/dumas_atms559project.pdf](https://github.com/jesdumas/jesdumas.github.io/blob/master/amath582/amath582project2.pdf)).
+For my final project, I chose to teach myself about [data assimilation](/atm559/dumas_atms559project.pdf).
 
 
 ### Computational Methods for Data Analysis
@@ -32,15 +32,15 @@ For my final project, I chose to teach myself about [data assimilation]([jesduma
 
 In this applied math course, I studied statistical learning and its underlying linear algebra. Check out these projects:
 
-[Singular Value Decomposition (SVD): Foundations for Facial Recognition](jesdumas.github.io/amath582/amath582hw1.pdf)
+[Singular Value Decomposition (SVD): Foundations for Facial Recognition](/amath582/amath582hw1.pdf)
 
-[Principal Component Analysis (PCA): Finding System Dynamics in Noisy Videos](jesdumas.github.io/amath582/amath582hw2.pdf)
+[Principal Component Analysis (PCA): Finding System Dynamics in Noisy Videos](/amath582/amath582hw2.pdf)
 
-[Music Genre Classifier using PCA and Naive Bayes](jesdumas.github.io/amath582/amath582hw3.pdf)
+[Music Genre Classifier using PCA and Naive Bayes](/amath582/amath582hw3.pdf)
 
-[Separating Foreground and Background Video using Dynamic Mode Decomposition (DMD)](jesdumas.github.io/amath582/amath582hw4.pdf)
+[Separating Foreground and Background Video using Dynamic Mode Decomposition (DMD)](/amath582/amath582hw4.pdf)
 
-[Using DMD to Track Structures in Simulated Turbulent Flows](jesdumas.github.io/amath582/amath582project2.pdf)
+[Using DMD to Track Structures in Simulated Turbulent Flows](/amath582/amath582project2.pdf)
 
 ### Master's Thesis
 
